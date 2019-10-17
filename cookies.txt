@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.klickpages.com.br	TRUE	/	FALSE	1999999999	__cfduid	de1ece01890e09a3aaddfae4730d2d5201571288137
+.google.com	TRUE	/	FALSE	1999999999	NID	189=Zfy9BBbqDeT4pJuCrQMRxU8ZxlvlBycXv49Fgr46dNcJYfPY_bp2mr2zZPrBh7J4y7kuQKp56u4kCcTI7W0KZhU2Sd_8CEWmLXz07VW61HAowX0YBH1BOTsb6MDOMoZY9Uhpn8RdW1H0X0JWlDt6jTI8JRxp1ZpYbUYLZZYO_js
+
